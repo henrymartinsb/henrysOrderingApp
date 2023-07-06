@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470748639722",
+    "project_id": "henrysordering",
+    "storage_bucket": "henrysordering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470748639722:android:a1f1e505cc8a37c98a4293",
+        "android_client_info": {
+          "package_name": "com.spacedsoft.henrys_grocery_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470748639722-26atah1st18007nm76kmvskfvr4qflge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa01M-rY5FWHpU1e4KACKliPCoUXsO4gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470748639722-26atah1st18007nm76kmvskfvr4qflge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
